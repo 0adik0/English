@@ -1,0 +1,45 @@
+<resources>
+
+  <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+  </style>
+
+  <style name="FullScreenDialogStyle" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowFullscreen">true</item>
+    <item name="android:windowIsFloating">false</item>
+  </style>
+
+  <style parent="Theme.AppCompat.Light.NoActionBar" name="ThemeOverlay.AppCompat.Dark.ActionBar">
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+  </style>
+
+  <style parent="Widget.AppCompat.ProgressBar.Horizontal" name="progressBar">
+    <item name="android:progressTint">#267540</item>
+    <item name="android:progressBackgroundTint">#FFF</item>
+    <item name="android:height">100dp</item>
+  </style>
+
+  <style name="viewBg">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">0dp</item>
+  </style>
+
+  <style name="medalsImage">
+    <item name="android:layout_marginTop">20dp</item>
+    <item name="android:layout_width">50dp</item>
+    <item name="android:layout_height">50dp</item>
+  </style>
+
+  <style name="medalsText">
+    <item name="android:layout_marginTop">5dp</item>
+    <item name="android:textColor">#000</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+
+</resources>

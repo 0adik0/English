@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.english.myapp">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".Lesson1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".profile.Profile" />
+        <activity android:name=".PrologueTest1" />
+        <activity android:name=".LessonsMenu" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Lesson1DetailActivity" />
+        <activity android:name=".StudyMenu" />
+        <activity android:name=".register.LoginActivity" />
+        <activity android:name=".register.RegisterActivity"/>
+        <activity
+            android:name=".register.MainActivityRegister"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".GameLevels"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Level1"
+            android:screenOrientation="portrait"/>
+        <activity
+         android:name=".ActivityLevel2"
+            android:screenOrientation="portrait"/>
+    </application>
+</manifest>

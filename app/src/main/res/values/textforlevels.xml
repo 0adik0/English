@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="lvl1text1">wʌn</string>>
+  <string name="lvl1text2">tuː</string>>
+  <string name="lvl1text3">θriː</string>>
+  <string name="lvl1text4">fɔː</string>>
+  <string name="lvl1text5">faɪv</string>>
+  <string name="lvl1text6">sɪks</string>>
+  <string name="lvl1text7">‘sev(ə)n</string>>
+  <string name="lvl1text8">eɪt</string>>
+  <string name="lvl1text9">naɪn</string>>
+  <string name="lvl1text10">ten</string>>
+  <string name="lvl2text1">say</string>>
+  <string name="lvl2text2">write</string>>
+</resources>

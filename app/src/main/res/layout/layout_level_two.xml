@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/line1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/style_yroven"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="@string/back"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/text_levels"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:padding="10dp"
+            android:text="@string/level"
+            android:textColor="@color/black30"
+            android:textSize="24sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/line2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal">
+        <View
+            android:id="@+id/vpoint1"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint2"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint3"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint4"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint5"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint6"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint7"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint8"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint9"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint10"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint11"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint12"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint13"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint14"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+        <View
+            android:id="@+id/vpoint15"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_points" />
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <TextView android:id="@+id/tvOption1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:text="was"
+            android:gravity="center"
+            android:padding="7dp"
+            android:textSize="18sp" />
+
+        <TextView android:id="@+id/tvOption2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_marginLeft="10dp"
+            android:padding="7dp"
+            android:text="be"
+            android:textSize="18sp" />
+
+        <TextView android:id="@+id/tvOption3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_marginLeft="15dp"
+            android:text="were"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/layout2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="15dp"
+        android:weightSum="2"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tvQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:textSize="25sp"
+            android:layout_marginTop="8dp"
+            android:padding="8dp"
+            android:text="Is in past time"
+            android:textColor="@android:color/white" >
+        </TextView>
+
+        <LinearLayout
+            android:id="@+id/rlAns"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imgDestination"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_centerHorizontal="true"
+                android:layout_above="@+id/textView"
+                android:src="@drawable/rl_bg"
+                android:tag="Destination" />
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

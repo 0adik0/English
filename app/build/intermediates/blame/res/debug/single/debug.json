@@ -1,0 +1,486 @@
+[
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_btn_black.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_btn_black.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_yroven.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_yroven.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_lesson1_detail.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/lesson1_detail.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_activity_lesson1.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/activity_lesson1.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_say.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/say.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_btn_log.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_btn_log.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_activity_prologue_test1.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/activity_prologue_test1.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_ic_baseline_person_24.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_nine.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/nine.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_points_green.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_points_green.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_line.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/line.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_points.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_points.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_btn_true.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_btn_true.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_bg1.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/bg1.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_lesson_item.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/lesson_item.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_activity_study_menu.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/activity_study_menu.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_arrowleft.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/arrowleft.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_button_stroke_white_blue.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/button_stroke_white_blue.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_enter_name_dialog.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/enter_name_dialog.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_btn_stroke_black60_press_black30.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_btn_stroke_black60_press_black30.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/anim_alpha.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/anim/alpha.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_activity_main_register.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/activity_main_register.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_activity_lessons_menu.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/activity_lessons_menu.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_ic_person.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_four.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/four.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_activity_settings.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_activity_profile.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_btn_logup.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/btn_logup.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_eduback.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/eduback.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_silver_medals.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/silver_medals.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_avatar.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/avatar.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_arrowright.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/arrowright.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_seven.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/seven.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_previmg.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/previmg.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_button_gamelevels.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/button_gamelevels.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_time.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/time.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_userphoto.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/userphoto.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/anim_onealpha.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/anim/onealpha.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_text_background_white.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/text_background_white.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_backgroud_text_view.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/backgroud_text_view.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_ic_baseline_home_24.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_dalee1.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/dalee1.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_btn_white_blue_press.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_btn_white_blue_press.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_gold_medals.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/gold_medals.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_btn_black40.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_btn_black40.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_intro_gradient.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/intro_gradient.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_layout_level_two.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/layout_level_two.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_toolbg.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/toolbg.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_eight.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/eight.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_go_test.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/go_test.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_btn_stroke_black60.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_btn_stroke_black60.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_btn_white.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_btn_white.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_previuy.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/previuy.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_gamelwvwls.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/gamelwvwls.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_img_true.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/img_true.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_btn_log.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/btn_log.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_study_unit_card.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/study_unit_card.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_six.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/six.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_bronze_medals.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/bronze_medals.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_reg_edittext_style.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/reg_edittext_style.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_write.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/write.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_btn_logup.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_btn_logup.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_style_img_universal.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/style_img_universal.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_bottom_white_text.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/bottom_white_text.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_reg_btn_style.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/reg_btn_style.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_ic_heart.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_five.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/five.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_idontknow.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/idontknow.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_one.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/one.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_ic_back.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_three.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/three.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/anim_alpha_out.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/anim/alpha_out.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_ten.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/ten.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_img.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/img.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_button_stroke_black_press_black30.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/button_stroke_black_press_black30.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_previewbackground.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/previewbackground.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_prevwin.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/prevwin.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_img_false.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/img_false.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_dialogend.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/dialogend.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_bg.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/bg.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_two.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/two.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_timetravel.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/timetravel.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/menu_bottom_menu.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_lessonicon.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/lessonicon.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_text.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/text.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_universal.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/universal.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_test_btn.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/test_btn.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/layout_previewdialog.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/layout/previewdialog.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_bg2.jpg.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/bg2.jpg"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_rl_bg.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/rl_bg.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_start_button.xml.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/start_button.xml"
+    },
+    {
+        "merged": "/Users/nur/Downloads/englishapp-master/app/build/intermediates/res/merged/debug/drawable_dalee.png.flat",
+        "source": "/Users/nur/Downloads/englishapp-master/app/src/main/res/drawable/dalee.png"
+    }
+]

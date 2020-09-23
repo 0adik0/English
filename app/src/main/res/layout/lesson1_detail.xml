@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".Lesson1DetailActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_height="180dp"
+        android:layout_width="match_parent"
+        android:fitsSystemWindows="true">
+
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            app:contentScrim="@android:color/transparent"
+            app:layout_scrollFlags="scroll|snap|exitUntilCollapsed"
+            app:toolbarId="@+id/toolbar">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/toolbg" />
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin">
+
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:gravity="center"
+                    android:text="Present Simple"
+                    android:textSize="30sp" />
+            </androidx.appcompat.widget.Toolbar>
+
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabTest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        app:layout_anchor="@id/appbar"
+        android:layout_marginStart="70dp"
+        app:layout_anchorGravity="bottom|center"
+        app:srcCompat="@drawable/test_btn" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_marginEnd="50dp"
+        app:layout_anchor="@id/appbar"
+        app:layout_anchorGravity="bottom|end"
+        app:srcCompat="@drawable/arrowright" />
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="17dp">
+
+            <TextView
+                android:id="@+id/textView32"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_margin="10dp"
+                android:text="@string/firstlessonintro" />
+
+            <Button
+                android:id="@+id/linkbut1"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:textSize="12sp"
+                android:layout_marginLeft="27dp"
+                android:background="@android:color/transparent"
+                android:text="1. Как образуется время Present Simple" />
+
+            <Button
+                android:id="@+id/linkbut2"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:textSize="12sp"
+                android:layout_marginLeft="27dp"
+                android:background="@android:color/transparent"
+                android:text="2. Глагол to be в Present Simple  " />
+
+            <Button
+                android:id="@+id/linkbut3"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:textSize="12sp"
+                android:layout_marginLeft="27dp"
+                android:background="@android:color/transparent"
+                android:text="3. Когда употребляется Present Simple  " />
+
+            <Button
+                android:id="@+id/linkbut4"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:textSize="12sp"
+                android:layout_marginLeft="27dp"
+                android:background="@android:color/transparent"
+                android:text="4. Маркеры Present Simple  " />
+
+            <TextView
+                android:id="@+id/firsttitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold|italic"
+                android:layout_marginLeft="20dp"
+                android:text="Как образуется Present Simple" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_margin="10dp"
+                android:text="@string/firstlessonbody" />
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
