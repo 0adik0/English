@@ -12,34 +12,36 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
-        <activity android:name=".Lesson1">
+        <activity android:name=".register.RegisterActivity" />
+        <activity android:name=".SubjectFourthTest" />
+        <activity android:name=".SubjectThirdTest" />
+        <activity android:name=".SubjectSecondTest" />
+        <activity android:name=".SubjectFirstTest" />
+        <activity android:name=".lessons.Lesson1" />
+        <activity android:name=".profile.Profile" />
+        <activity android:name=".SubjectTestUnit" />
+        <activity android:name=".LessonsMenu" />
+        <activity android:name=".MainActivity">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AboutActivity" />
+        <activity android:name=".Lesson1DetailActivity" />
+        <activity android:name=".StudyMenu" />
+
+        <activity
+            android:name=".register.LoginActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
 
-        <activity android:name=".profile.Profile" />
-        <activity android:name=".PrologueTest1" />
-        <activity android:name=".LessonsMenu" />
-        <activity android:name=".MainActivity" />
-        <activity android:name=".Lesson1DetailActivity" />
-        <activity android:name=".StudyMenu" />
-        <activity android:name=".register.LoginActivity" />
-        <activity android:name=".register.RegisterActivity"/>
-        <activity
-            android:name=".register.MainActivityRegister"
-            android:screenOrientation="portrait">
-        </activity>
-        <activity
-            android:name=".GameLevels"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".Level1"
-            android:screenOrientation="portrait"/>
-        <activity
-         android:name=".ActivityLevel2"
-            android:screenOrientation="portrait"/>
+
     </application>
+
 </manifest>

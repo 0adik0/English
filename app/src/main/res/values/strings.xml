@@ -3,80 +3,195 @@
     <string name="start">Начать</string>
     <string name="back">Назад</string>
     <string name="level">Уровень</string>
-    <string name="textcontinue">Продолжить"</string>
+    <string name="textcontinue">Next</string>
+    <string name="text_repeat">Retry</string>
     <string name="level1">Уровень: 1"</string>
     <string name="level2">Уровень: 2"</string>
     <string name="perehod">"Второй уровень"</string>
-    <string name="subject1">
-        "   Привет, … Ты все-таки решился пройти по нелегкому, но интересному пути изучения английского языка, это круто!"
-        "Прежде чем мы начнем покорять его вершины, необходимо понять с кем мы будем работать, и кто будет нам помогать в нашем нелегком деле. Позволь тебе представить твою команду:\n"
-    </string>
+    <string name="seconds">sec</string>
+    <string name="main_screen_title_home">Home</string>
+    <string name="main_screen_title_course">Notebook</string>
+    <string name="main_screen_title_profile">Profile</string>
 
-    <string name="subject2">
-        "   Представь, что это ты (you). Обращаясь к тебе, я использую специальное местоимение «You». Ты тоже можешь его использовать, обращаясь к кому-то."
-        "Но главное, не важно ко скольким людям ты хочешь обратиться, к одному или нескольким, ты всегда используешь одно и тоже слово – You (Ты, Вы). Давай дальше:\n"
-    </string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
 
-    <string name="subject3">
-        "   Это Я (I), твой верный помощник и путеводитель в мире английского языка. Говоря о себе, я использую местоимение «I»."
-        "По той же схеме, когда ты захочешь рассказать кому-то о себе, ты будешь использовать местоимение «I» (Я). Хорошо, переходим к следующим:\n"
-    </string>
 
-    <string name="subject4">
-        "   Ну этих людей ты знаешь. Это Мы (We) с тобой. Крутая команда, не правда ли? Когда ты хочешь рассказать о себе и ком-то еще, ты употребляешь местоимение «We»."
-        "Как говорится, вместе мы (We) сила! Отлично, с нами разобрались, теперь давай посмотрим кто тут еще есть:\n"
-    </string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
 
-    <string name="subject5">
-        "   Это он (He) и Она (She). Не обращай внимание, эти ребята довольно часто выглядят не слишком довольными. А все потому, что многие, кто начинал изучать язык, бросали это дело на полпути."
-        "После этого они разочаровались во всех новичках и до сих пор отказываются им доверять. Но это же не про тебя, верно? Ты покажешь им, что ты не такой как все."
-        "Ну так вот, когда ты хочешь рассказать о своем знакомом, друге, коллеге и любом другом человеке мужского пола, ты используешь местоимение «He»."
-        "Такая же ситуация и с прекрасной половиной человечества, все те же самые категории женского пола получат местоимение «She». Тут вроде все понятно. Ну и напоследок:\n"
-    </string>
 
-    <string name="subject6">
-        "   Вот они (They) являются твоими друзьями навек. Эти ребята всегда тебя поддержат в трудную минуту, выслушают все твои проблемы и подскажут в каком направлении двигаться."
-        "Именно они (they) будут стараться объяснить тебе материал максимально доступно и понятно, после чего твоя мотивация изучать английский лишь возрастет."
-        "Таким образом, говоря о группе людей, если их два и более, и при этом не важно какого они (they) пола, ты употребляешь местоимение «They».\n"
-        "   Есть еще один, или лучше сказать одно. Я сейчас говорю о последнем твоем помощнике, но не думай, что он самый неважный, как раз-таки наоборот."
-        "Оно (It) поможет тебе обозначить и заменить в твоем предложении всех живых и неживых существ, за исключением людей. Кто же это? Его имя «It» (Оно)."
-        "Сказать, что это слово универсальное, наверное, будет самым достойным, ведь оно (It) действительно выполняет огромную работу."
-        "Ты можешь говорить о чем угодно, будь это какое-то животное, или любой окружающий тебя предмет, именно «It» придет тебе на помощь и поможет рассказать тебя о нем в твоем предложении."
-        "Так повелось, что в английском языке, независимо от рода или пола, все вышеперечисленные понятия обозначаются словом «It». У него есть и другие применения, о которых ты узнаешь чуть позже.\n"
-    </string>
-
-    <string name="subject7">
-        "   Ну как тебе знакомство с твоей новой командой? Все они станут твоими верными помощниками при построении английских предложений, так что советую, как можно скорее наладить с ними контакт."
-        "Да, чуть не забыл, у них у всех есть одно общее название – местоимения. Я дальше тебе подробнее расскажу и покажу на примерах, в чем именно они смогут тебе помочь."
-        "А сейчас давай познакомимся с теми, с кем тебе также придется иметь дело."
-    </string>
-
-    <string name="subject8">
-        "   Помимо твоих близких друзей, местоимений, лидирующие позиции в английском предложении могут занимать также и другие части речи."
-        "Чтобы сразу понять, о чем идет речь, давай подумаем, о чем мы чаще всего говорим? Прежде всего, о людях и других живых существах, правда ведь?"
-        "Если ты не говоришь о себе, то ты говоришь о ком-то другом, это вполне логично."
-    </string>
-
-    <string name="subject9">
-        "   Далее, это могут быть не только живые существа, но и неживые, например, какие-то объекты или предметы."
-        "Ты наверняка рассказывал кому-то о пользе какой-то вещи, например, насколько незаменимым является для тебя твой телефон или компьютер."
-    </string>
-
-    <string name="subject10">
-        "   Кроме того, ты также нередко обсуждаешь с кем-то погоду или природу, говоря о различных явлениях или событиях, рассуждаешь о каких-либо жизненных понятиях и т.д." 
-    </string>
-
-    <string name="subject11">
-        "   Весь этот огромный набор описывает всего лишь одна часть речи, которая взяла на себя столь непосильную ответственность. И имя ей существительное (noun)."
-        "Советую с ней подружиться, ведь она будет присутствовать в каждом твоем предложении и окружать тебя повсюду.\n"
-        "   Есть и другие части речи, способные взять на себя главную роль в предложении, но о них мы узнаем чуть позже. В общем, ты же понимаешь, что такое престижное место не бывает пустым."
-        "Да-да, запомни, в английском предложении всегда есть два главных члена предложения – подлежащее, или основное действующее лицо, и сказуемое, о котором мы будем вести речь в следующем уроке.\n"
-        "   Ну что, неплохой состав союзников на пути к покорению английских предложений? Ты, наверное, сейчас думаешь, что это все хорошо, но непонятно как этим пользоваться и где применять."
-        "Не волнуйся! Я здесь именно за тем, чтобы научить тебя. Ты с ними подружишься, а я тебе в этом помогу. Главное, помни – дорогу осилит идущий."
-        "Ну, что, время применить на практике изученное? Я тоже так считаю. А теперь поехали, сейчас ты построишь свои первые английские предложения!"
+    <string name="subject_test_unit_dialogue">"Пришло время показать на что ты способен. Ниже приведен список заданий, которые тебе нужно выполнить."
+        "Они помогут тебе расширить и закрепить полученные знания". Удачи!"
 
     </string>
 
+    <string name="subject_first_test_entry_dialog">
+        "   Вот ты где! А я тебя везде ищу! Твои друзья местоимения попали в беду. Они потерялись среди всех этих слов. Ты должен помочь найти их все!"
+        " Как только увидишь местоимение, сразу же перетащи его в зеленую зону. Поспеши!"
+    </string>
+
+    <string name="subject_first_test_end_dialog">
+        "   Так держать, я знал, что справишься. Продолжай в том же духе!"
+    </string>
+
+    <string name="subject_second_test_entry_dialog">
+        "   Ты поступил правильно, когда решил спасти своих друзей из беды. Так держать."
+    </string>
+
+    <string name="subject_third_test_entry_dialog">
+        "   Отлично, все местоимения на своих местах и выполняют отведенную им работу. Теперь ты увидишь, как еще они применяются. "
+    </string>
+
+    <string name="subject_fourth_test_entry_dialog">
+        "Покажи на что ты способен"
+    </string>
+
+    <string-array name="home_screen_category_item_title_list">
+        <item>Theory</item>
+        <item>Practice</item>
+        <item>Games</item>
+    </string-array>
+
+    <string-array name="secondTaskSentences">
+        <item>want to master English.\n</item>
+        <item>likes to listen to music on her way home.\n</item>
+        <item>visit their parents every weekend.\n</item>
+        <item>don’t understand what is going on.\n</item>
+        <item>are a good friend.\n</item>
+        <item>works in a comfortable office.\n</item>
+        <item>must be a very good teacher.\n</item>
+        <item>know what I want from this lesson.\n</item>
+        <item>is a very smart girl.\n</item>
+        <item>doesn’t want to do his homework.\n</item>
+        <item>want to go on a picnic with their friends.\n</item>
+        <item>must complete this task as fast as you can.\n</item>
+        <item>can’t imagine how useful is this task. \n</item>
+        <item>try out best to master English.\n</item>
+
+    </string-array>
+    <string-array name="secondTaskSentencesTranslation">
+        <item>(Я хочу выучить английский язык)</item>
+        <item>(Она любит слушать музыку по дороге домой)</item>
+        <item>(Они навещают своих родителей каждые выходные)</item>
+        <item>(Мы не понимаем, что происходит)</item>
+        <item>(Ты хороший друг)</item>
+        <item>(Он работает в комфортном офисе)</item>
+        <item>(Вы, должно быть, очень хороший учитель)</item>
+        <item>(Я знаю, что хочу получить от этого урока)</item>
+        <item>(Она очень умная девочка)</item>
+        <item>(Он не хочет делать домашнее задание)</item>
+        <item>(Они хотят пойти на пикник со своими друзьями)</item>
+        <item>(Ты должен выполнить это задание как можно быстрее)</item>
+        <item>(Вы не можете представить, насколько полезно данное упражнение)</item>
+        <item>(Мы прикладываем все усилия, чтобы выучить английский язык)</item>
+    </string-array>
+
+    <string-array name="thirdTaskFirstSentences">
+        <item>John usually listens to music on his way home. </item>
+        <item>This house is very big. </item>
+        <item>My friends want to travel to a foreign country by train. </item>
+        <item>This laptop is old. </item>
+        <item>My sister wants to buy a new phone. </item>
+        <item>My friends invited me to the party</item>
+        <item>My bro is older than me. </item>
+        <item>My friends and I like to play football after school. </item>
+        <item>Where is my phone? </item>
+        <item>I am very upset. </item>
+        <item>I have a new car. </item>
+        <item>My colleagues are just awful. </item>
+        <item>My sister is 25. </item>
+        <item>I bought a new dress. </item>
+        <item>My friends don’t like to wait for so long. </item>
+        <item>What a pity! </item>
+    </string-array>
+
+    <string-array name="thirdTaskSecondSentences">
+        <item>likes hip hop and pop music.</item>
+        <item>has six rooms. </item>
+        <item>just don’t know which country will be the first. </item>
+        <item>can’t launch modern games. </item>
+        <item>likes Samsung and Apple. </item>
+        <item>will join them tonight. </item>
+        <item>is already an office worker. </item>
+        <item>are a good team. </item>
+        <item>is on the table. </item>
+        <item>don’t want to join me in the cinema. </item>
+        <item>is very fast. </item>
+        <item>always disturb me when I try to concentrate. </item>
+        <item>works in a very prestigious company. </item>
+        <item>is beautiful. </item>
+        <item>are very punctual people. </item>
+        <item>lost my keys and can’t open the door. </item>
+    </string-array>
+
+    <string-array name="thirdTaskSentencesTranslation">
+        <item>(Джон обычно слушает музыку по дороге домой. Он любит слушать хип хоп и поп музыку)</item>
+        <item>(Этот дом очень большой. У него есть 6 комнат)</item>
+        <item>(Мои друзья хотят поехать за рубеж на поезде. Они только не знают, какую страну посетят первой)</item>
+        <item>(Этот ноутбук устарел. Он не может запустить современные игры)</item>
+        <item>(Моя сестра хочет купить новый телефон. Ей нравятся фирма Самсунг и Эппл)</item>
+        <item>(Мои друзья пригласили меня на вечеринку. Я присоединюсь к ним сегодня вечером)</item>
+        <item>(Мой брат старше меня. Он уже работает в офисе)</item>
+        <item>(Я и мои друзья любим играть в футбол после школы. Мы отличная команда)</item>
+        <item>(Где мой телефон? – Он на столе)</item>
+        <item>(Я расстроен. Ты не хочешь идти со мной в кино)</item>
+        <item>(У меня есть новая машина. Она очень быстрая)</item>
+        <item>(Мои коллеги по работе просто ужасные. Они постоянно беспокоят меня, когда я хочу сосредоточиться)</item>
+        <item>(Моей сестре 25. Она работает в очень престижной компании)</item>
+        <item>(Я купила новое платье. Оно красивое)</item>
+        <item>(Мои друзья не любят долго ждать. Они очень пунктуальные люди)</item>
+        <item>(Вот беда. Я потерял ключи и не могу открыть дверь)</item>
+    </string-array>
+
+    <string-array name="fourthTaskFirstSentences">
+        <item>What is the weather like today? </item>
+        <item>I won’t go outside tonight. </item>
+        <item>What is the day today? </item>
+        <item>What is the date today? </item>
+        <item>I think I will go home. </item>
+        <item>John, you are late. </item>
+        <item>What do you think about this task? </item>
+        <item>Will you walk to a park? </item>
+        <item>I will help you to move to a new apartment.  </item>
+        <item>What don’t you like about autumn? </item>
+    </string-array>
+
+    <string-array name="fourthTaskSecondSentences">
+        <item>is pretty cold. </item>
+        <item>is dark and rainy there. </item>
+        <item>is Sunday. </item>
+        <item>is 25th of May today</item>
+        <item>is boring here. </item>
+        <item>is 9 am already. </item>
+        <item>is not difficult to complete it. </item>
+        <item>is too far to go there now. </item>
+        <item>is difficult for a girl to lift heavy boxes.</item>
+        <item>is rainy and windy outside. </item>
+    </string-array>
+
+    <string-array name="fourthTaskSentencesTranslation">
+        <item>(Какая погода сегодня на улице? – Довольно холодно).</item>
+        <item>(Я не пойду гулять сегодня вечером. Там темно и идет дождь).</item>
+        <item>(Какой сегодня день? – Сегодня воскресенье).</item>
+        <item>(Какое сегодня число? – Сегодня 25 Мая).</item>
+        <item>(Я думаю я пойду домой. Тут скучновато).</item>
+        <item>(Джон, ты опоздал. Сейчас уже 9 утра).</item>
+        <item>(Что думаешь об этом задании? – Его не трудно решить).</item>
+        <item>(Ты пойдешь до парка пешком? – Слишком далеко, чтобы идти туда сейчас).</item>
+        <item>(Я помогу тебе с переездом в новую квартиру. Девушке трудно поднимать тяжелые коробки).</item>
+        <item>(Что на счет осени? – На улице очень дождливо и ветрено).</item>
+    </string-array>
+
+    <string-array name="pronouns">
+        <item>I</item>
+        <item>We</item>
+        <item>You</item>
+        <item>They</item>
+        <item>He</item>
+        <item>She</item>
+        <item>It</item>
+    </string-array>
 
     <string name="firstlessonintro">
         "   Английские времена обычно начинают изучать с Present Simple. Сегодня разберем формулу образова- ния настоящего простого времени и примеры его употребления."
@@ -112,10 +227,25 @@
         "Твой курс обучения будет построен на основе вымышленной истории, погружаясь в которую ты будешь развивать свои языковые навыки. "
         "Подобная форма обучения поможет тебе отвлечься от скучных таблиц и схем, сохранять мотивацию к изучению нового, а также зарядит необходимым настроением, которое в корне изменит твое отношение к английскому языку."
         "Ну что готов? Тогда приступим."
-
-
     </string>
+    <string name="gold_medal_text">
+        "Ух ты! Это лучший результат, который можно получить за данное упражнение. Твое знание темы действительно безупречно. Продолжай в том же духе!"
+    </string>
+    <string name="silver_medal_text">
+        "Поздравляю, у тебя хороший результат! Похоже ты неплохо разобрался в данной теме. Я уверен, что при должной практике ты сможешь решать подобные задачки еще быстрее!"
+    </string>
+    <string name="bronze_medal_text">
+        "Молодец! Вижу ты смог разобраться в данной теме достаточно, чтобы довольно быстро выполнять подобные упражнения. Продолжай улучшать свои навыки, нет предела совершенству!"
+    </string>
+    <string name="no_medal_text">
+        "Ты справился, но я уверен, что можешь лучше! Попробуй еще раз прочитать пройденный материал и я уверен, твои результаты заметно улучшаться!"
+    </string>
+
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_page_viewer_title">Learn in action</string>
+    <string name="congratulations">CONGRATULATIONS!</string>
 
 </resources>

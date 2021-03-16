@@ -24,23 +24,6 @@ public class AboutActivity extends AppCompatActivity {
         setContentView(R.layout.activity_about);
         welcomeText = findViewById(R.id.welcome_text);
 
-        dialog = new Dialog(this, R.style.FullScreenDialogStyle);
-        View view = getLayoutInflater().inflate(R.layout.enter_name_dialog, null);
-        dialog.setContentView(view);
-
-        Button btnAccept = (Button)dialog.findViewById(R.id.btnAccept);
-        profileName = (EditText)dialog.findViewById(R.id.profile_name);
-        btnAccept.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                String name = String.valueOf(profileName.getText());
-                String address = "Приветствую, " + name;
-                welcomeText.setText(address);
-                dialog.dismiss();
-            }
-        });
-        dialog.show();
-
         goToProfile = findViewById(R.id.btn_go_profile);
         goToProfile.setOnClickListener(new View.OnClickListener() {
             @Override

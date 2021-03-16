@@ -6,12 +6,23 @@
 	font-family: "Times New Roman", Times, serif;
    }
    p { text-indent: 25px; text-align:justify;}
-   .describe {
-	font-style: italic;
-	font-weight: bold;
-   }
-</style>
 
+   button[name="test"] { 
+    border: none;
+    border-radius: 7px;
+    padding: 10px 25px;
+    background: #4fC3F7;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+  }
+</style>
+<script type="text/javascript">
+    function transit() {
+        Android.goTest();
+    }
+</script>
 </head>
 
 <body>
@@ -104,8 +115,9 @@
 </p>
 <center><div><img src="file:///android_asset/Lesson1/sticker_begin.jpg" hspace="20" vspace="10" align="middle" /></div></center>
 <p>
-	Ну, что, время применить на практике изученное? Я тоже так считаю. А теперь поехали, сейчас ты построишь свои первые английские предложения! Для перехода к практической части лекции нажми кнопку <b><i>"Test"</i></b> в верхней части экрана.
+	Ну, что, время применить на практике изученное? Я тоже так считаю. А теперь поехали, сейчас ты построишь свои первые английские предложения! Для перехода к практической части лекции нажми кнопку <b><i>"TEST"</i></b> в нижней части экрана.
 </p>
+<center><button type="button" id="test" name="test" onclick="transit()">TEST</button></center>
 </body>
 
 </html>

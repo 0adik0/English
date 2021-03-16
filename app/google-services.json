@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "420814296594",
-    "firebase_url": "https://quiz-dc4ad.firebaseio.com",
-    "project_id": "quiz-dc4ad",
-    "storage_bucket": "quiz-dc4ad.appspot.com"
+    "project_number": "306150893893",
+    "firebase_url": "https://project-afc75.firebaseio.com",
+    "project_id": "project-afc75",
+    "storage_bucket": "project-afc75.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:420814296594:android:97f729abc72f297c24eacb",
+        "mobilesdk_app_id": "1:306150893893:android:eb247932edfff8f804f62c",
         "android_client_info": {
           "package_name": "com.english.myapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "420814296594-4jlo0uirk8ejb6natgsdcjr2f9bqq85m.apps.googleusercontent.com",
+          "client_id": "306150893893-pl09gfv2vafee5adgl1u8ijpp1mt7ca0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDmY-BDquLyokxIiYRn8899_V0yBXhG9XY"
+          "current_key": "AIzaSyB8jsu4vTxx8_P00km4ThDUUNKRuJG7ZXg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "420814296594-4jlo0uirk8ejb6natgsdcjr2f9bqq85m.apps.googleusercontent.com",
+              "client_id": "306150893893-pl09gfv2vafee5adgl1u8ijpp1mt7ca0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

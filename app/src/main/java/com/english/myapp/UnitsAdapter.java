@@ -86,7 +86,5 @@ public class UnitsAdapter extends RecyclerView.Adapter<UnitsAdapter.UnitViewHold
             super(v);
             cardView = v;
         }
-
     }
-
 }

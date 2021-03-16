@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_screen"
+        android:enabled="true"
+        android:icon="@drawable/baseline_home_black_18dp"
+        android:title="@string/main_screen_title_home"/>
+    <item
+        android:id="@+id/course_screen"
+        android:enabled="true"
+        android:icon="@drawable/baseline_assignment_black_18dp"
+        android:title="@string/main_screen_title_course"/>
+
+    <item
+        android:id="@+id/profile_screen"
+        android:enabled="true"
+        android:icon="@drawable/baseline_account_box_black_18dp"
+        android:title="@string/main_screen_title_profile"/>
+</menu>

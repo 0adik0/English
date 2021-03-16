@@ -47,8 +47,8 @@ public class LessonsAdapter extends RecyclerView.Adapter<LessonsAdapter.ItemView
 
     public static class ItemViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 
-        private TextView title;
-        private ImageView icon;
+        private final TextView title;
+        private final ImageView icon;
 
         public ItemViewHolder(View itemView){
             super(itemView);
